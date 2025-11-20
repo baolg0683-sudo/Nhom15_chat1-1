@@ -74,7 +74,7 @@ const App: React.FC = () => {
 
         {view === 'CHAT' && chatPartnerId && (
           <div className="w-full animate-in zoom-in duration-300">
-<ChatScreen
+            <ChatScreen
               currentUserId={currentUserId}
               partnerId={chatPartnerId}
               messages={messages}
