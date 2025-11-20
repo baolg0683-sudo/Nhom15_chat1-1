@@ -33,4 +33,4 @@
 7. **ERROR** - Thông báo lỗi
 8. **RECIPIENT_NOT_ONLINE** - Người nhận chưa online
 
-## 📁 CẤU TRÚC THỨ MỤC
+
